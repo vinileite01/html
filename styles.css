@@ -1,0 +1,55 @@
+body{
+    font-family: "Matemasie", sans-serif;
+
+    background: gray;
+color: whitesmoke
+}
+
+header{
+    background: rgb(48, 15, 0);
+color: white;
+border-top: solid 10px green;
+font-size: 25px;
+padding: 20px;
+
+}
+
+
+section{   
+
+background: gray;
+padding-bottom: 80px;
+padding-top: 1px;
+display:flex;
+justify-content: center;
+
+
+}
+
+.chamada-texto{ 
+margin-right: 10px;
+
+}
+img{
+    margin-left: 5px;
+height:250px;
+
+}
+
+.video-principal {
+margin-left: 50px;
+
+}
+.categoria-videos{
+display:flex;
+overflow-x: auto;
+gap: 10px;
+
+
+}
+
+.secao1{
+display: flex;
+
+
+}
